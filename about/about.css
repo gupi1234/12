@@ -1,0 +1,53 @@
+main {
+  height: 110vh;
+  width: 100%;
+  background: url(../image/BACK.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+h1 {
+  color: #ff7200;
+  font-size: 3rem;
+  font-weight: bold;
+  padding: 2rem;
+  font-family: "Times New Roman", Times, serif;
+}
+p {
+  color: #fff;
+  font: 1.2rem sans-serif;
+  margin-left: 35px;
+  line-height: 30px;
+}
+.about {
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  margin-left: 18rem;
+}
+.web {
+  display: inline-block;
+}
+
+.web h4 {
+  color: #ff7200;
+  font-size: 20px;
+  font-weight: 700;
+  padding-left: 2rem;
+  padding-top: 2rem;
+}
+.web ul {
+  display: inline;
+  line-height: 12px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.web li {
+  list-style: disc;
+}
+.web h2 {
+  font-size: 20px;
+  text-align: center;
+  padding-top: 15rem;
+  color: #ff7200;
+}
